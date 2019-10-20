@@ -21,3 +21,5 @@
   * ``` git push origin “nombre rama” ```
 * **Mostrar el estado actual de la rama(branch), como los cambios que hay sin hacer commit.**
   * ``` git status ```
+
+###### Usted puede descargar *Git* haciendo click [Aquí](https://git-scm.com/downloads)
