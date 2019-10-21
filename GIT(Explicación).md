@@ -11,9 +11,9 @@
   * ``` git init ```
 * **Añadir un archivo especifico.**
   * ``` git add “nombre_de_archivo” ```
-* **Confirmar los cambios realizados. El “mensaje” generalmente se usa para asociar al commit una breve descripción de los cambios realizados.**
+* **Comentar un cambio. El “mensaje” generalmente se usa para asociar al commit una breve descripción de los cambios realizados.**
   * ``` git commit –m “mensaje” ```
-* **Revertir el commit identificado por "hash_commit"**.
+* **Revertir los cambios realizados"**.
   * ``` git revert “nombre del archivo" ```
 * **Subir la rama(branch) “nombre_rama” al servidor remoto, usar la master es más básico y eso facilita el uso.**
   * ``` git push origin “nombre rama” ```
