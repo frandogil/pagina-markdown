@@ -11,8 +11,6 @@
   * ``` git init ```
 * **Añadir un archivo especifico.**
   * ``` git add “nombre_de_archivo” ```
-* **Añadir todos los archivos del directorio**.
-  * ``` git add . "nombre del archivo"```
 * **Confirmar los cambios realizados. El “mensaje” generalmente se usa para asociar al commit una breve descripción de los cambios realizados.**
   * ``` git commit –m “mensaje” ```
 * **Revertir el commit identificado por "hash_commit"**.
@@ -21,5 +19,7 @@
   * ``` git push origin “nombre rama” ```
 * **Mostrar el estado actual de la rama(branch), como los cambios que hay sin hacer commit. Usar la master es más básico y eso facilita el uso**.
   * ``` git status ```
+* **Mostrar un cambio en concreto**.
+  * ``` git diff ```
 
 ###### Usted puede descargar *Git* haciendo click [Aquí](https://git-scm.com/downloads).
