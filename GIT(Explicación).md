@@ -15,9 +15,9 @@
   * ``` git commit –m “mensaje” ```
 * **Revertir el commit identificado por "hash_commit"**.
   * ``` git revert “nombre del archivo" ```
-* **Subir la rama(branch) “nombre_rama” al servidor remoto.**
+* **Subir la rama(branch) “nombre_rama” al servidor remoto, usar la master es más básico y eso facilita el uso.**
   * ``` git push origin “nombre rama” ```
-* **Mostrar el estado actual de la rama(branch), como los cambios que hay sin hacer commit. Usar la master es más básico y eso facilita el uso**.
+* **Mostrar el estado actual de la rama(branch), como los cambios que hay sin hacer commit. **.
   * ``` git status ```
 * **Mostrar un cambio en concreto**.
   * ``` git diff ```
