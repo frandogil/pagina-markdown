@@ -19,7 +19,7 @@
   * ``` git revert “nombre del archivo" ```
 * **Subir la rama(branch) “nombre_rama” al servidor remoto.**
   * ``` git push origin “nombre rama” ```
-* **Mostrar el estado actual de la rama(branch), como los cambios que hay sin hacer commit.**
+* **Mostrar el estado actual de la rama(branch), como los cambios que hay sin hacer commit. Usar la master es más básico y eso facilita el uso**
   * ``` git status ```
 
 ###### Usted puede descargar *Git* haciendo click [Aquí](https://git-scm.com/downloads).
