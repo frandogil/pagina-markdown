@@ -23,3 +23,6 @@
   * ``` git diff ```
 
 ###### Usted puede descargar *Git* haciendo click [Aquí](https://git-scm.com/downloads).
+
+
+###### Usted podrá ver el vídeo explicativo haciendo click [Aquí](https://1drv.ms/p/s!AtUmt6IYzLxUgmOsjIH9u6xdyzVm?e=DFEUBj).
