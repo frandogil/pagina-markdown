@@ -1,7 +1,7 @@
 # *Git*
-#### ¿Que es *Git*?
+#### ¿Que es *Git*?⬇
 
-*Git*, es un software de control de versiones diseñado por Linus Torvalds. Fue creado pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente, es decir Git nos proporciona las herramientas para desarrollar un trabajo en equipo de manera inteligente y rápida y por trabajo nos referimos a algún software o página que implique código el cual necesitemos hacerlo con un grupo de personas. Algunas de las características más importantes de *Git* son:
+*Git*, es un software de control de versiones diseñado por Linus Torvalds. Fue creado pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente, es decir Git nos proporciona las herramientas para desarrollar un trabajo en equipo de manera inteligente y rápida y por trabajo nos referimos a algún software o página que implique código el cual necesitemos hacerlo con un grupo de personas. *Git* sirve para hacer un seguimiento de archivos, carpetas o lo que desees. Te muestra las modificaciones o cambios que hay adentro y la posibilidad de restaurar archivos borrados siempre y cuando lo mantengas al dia con las actualizaciones. Algunas de las características más importantes de *Git* son:
 * Rapidez en la gestión de ramas, debido a que Git nos dice que un cambio será fusionado mucho más frecuentemente de lo que se escribe originalmente.
 * Gestión distribuida; Los cambios se importan como ramas adicionales y pueden ser fusionados de la misma manera como se hace en la rama local.
 * Gestión eficiente de proyectos grandes.
