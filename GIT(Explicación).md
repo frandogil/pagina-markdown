@@ -17,7 +17,7 @@
   * ``` git revert “nombre del archivo" ```
 * **Subir la rama(branch) “nombre_rama” al servidor remoto, usar la master es más básico y eso facilita el uso.**
   * ``` git push origin “nombre rama” ```
-* **Mostrar el estado actual de la rama(branch), como los cambios que hay sin hacer commit. **.
+* **Mostrar el estado actual de la rama(branch), como los cambios que hay sin hacer commit**.
   * ``` git status ```
 * **Mostrar los cambios en detalle**.
   * ``` git diff ```
